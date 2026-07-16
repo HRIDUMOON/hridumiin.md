@@ -20,15 +20,15 @@
 <a href="https://discord.com/users/1497620529371152475">
   <img src="https://img.shields.io/badge/Discord-Profile-7F00FF?style=for-the-badge&logo=discord&logoColor=white&labelColor=090011" alt="Discord" />
 </a>
-<a href="https://instagram.com/_tushar_2005_">
+<a href="https://instagram.com/hasanhridoy.0">
   <img src="https://img.shields.io/badge/Instagram-_tushar_2005_-B026FF?style=for-the-badge&logo=instagram&logoColor=white&labelColor=090011" alt="Instagram" />
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=tushar-xddd&label=PROFILE%20VIEWS&color=7F00FF&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=HRIDOY&label=PROFILE%20VIEWS&color=7F00FF&style=for-the-badge" alt="Profile Views" />
 <img src="https://img.shields.io/github/followers/tushar-xddd?label=FOLLOWERS&style=for-the-badge&color=B026FF&labelColor=090011" alt="Followers" />
-<img src="https://img.shields.io/badge/Assam-India-C084FC?style=for-the-badge&labelColor=090011" alt="Location" />
+<img src="https://img.shields.io/badge/Bogura-Bangladesh-C084FC?style=for-the-badge&labelColor=090011" alt="Location" />
 
 <br><br>
 
