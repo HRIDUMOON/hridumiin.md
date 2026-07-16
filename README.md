@@ -21,7 +21,7 @@
   <img src="https://img.shields.io/badge/Discord-Profile-7F00FF?style=for-the-badge&logo=discord&logoColor=white&labelColor=090011" alt="Discord" />
 </a>
 <a href="https://instagram.com/hasanhridoy.0">
-  <img src="https://img.shields.io/badge/Instagram-_tushar_2005_-B026FF?style=for-the-badge&logo=instagram&logoColor=white&labelColor=090011" alt="Instagram" />
+  <img src="https://img.shields.io/badge/Instagram-hasanhridoy.0-B026FF?style=for-the-badge&logo=instagram&logoColor=white&labelColor=090011" alt="Instagram" />
 </a>
 
 <br><br>
