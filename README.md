@@ -46,9 +46,9 @@
 
 ```ts
 const developer = {
-  name: 'The "तुषार"',
-  username: "tushar-xddd",
-  location: "Assam, India",
+  name: 'HASAN HRIDOY"',
+  username: "hridumoon",
+  location: "Bogura, Bangladesh",
   role: ["Discord Bot Developer", "Web Developer"],
   learning: ["Discord Bots", "Security Bots", "Automation"],
   motto: "Build. Secure. Repeat."
@@ -88,25 +88,25 @@ const developer = {
 <sub>rynoxx.site</sub>
 </td>
 <td align="center" width="25%">
-<a href="mailto:tusharchakraborty89@gmail.com">
+<a href="mailto:sjaberhasan96@gmial.com">
 <img src="https://img.shields.io/badge/SEND%20EMAIL-B026FF?style=for-the-badge&logo=gmail&logoColor=white&labelColor=090011" alt="Send Email" />
 </a>
 <br>
-<sub>tusharchakraborty89@gmail.com</sub>
+<sub>sjaberhasan96@gmail.com</sub>
 </td>
 <td align="center" width="25%">
-<a href="https://discord.com/users/1497620529371152475">
+<a href="https://discord.com/users/1101863154083954838">
 <img src="https://img.shields.io/badge/DISCORD%20PROFILE-C084FC?style=for-the-badge&logo=discord&logoColor=white&labelColor=090011" alt="Discord Profile" />
 </a>
 <br>
-<sub>1497620529371152475</sub>
+<sub>1101863154083954838</sub>
 </td>
 <td align="center" width="25%">
-<a href="https://instagram.com/_tushar_2005_">
+<a href="https://instagram.com/hasanhridoy.0">
 <img src="https://img.shields.io/badge/INSTAGRAM-7F00FF?style=for-the-badge&logo=instagram&logoColor=white&labelColor=090011" alt="Instagram" />
 </a>
 <br>
-<sub>_tushar_2005_</sub>
+<sub>hasanhridoy.0</sub>
 </td>
 </tr>
 </table>
