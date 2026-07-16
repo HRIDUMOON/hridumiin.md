@@ -8,8 +8,8 @@
 
 <br><br>
 
-<a href="https://github.com/tushar-xddd">
-  <img src="https://img.shields.io/badge/GitHub-tushar--xddd-7F00FF?style=for-the-badge&logo=github&logoColor=white&labelColor=090011" alt="GitHub" />
+<a href="https://github.com/hridumoon">
+  <img src="https://img.shields.io/badge/GitHub-hridumoon-7F00FF?style=for-the-badge&logo=github&logoColor=white&labelColor=090011" alt="GitHub" />
 </a>
 <a href="https://rynoxx.site/">
   <img src="https://img.shields.io/badge/Website-rynoxx.site-B026FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=090011" alt="Website" />
