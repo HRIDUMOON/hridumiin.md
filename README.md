@@ -27,7 +27,7 @@
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=HRIDOY&label=PROFILE%20VIEWS&color=7F00FF&style=for-the-badge" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/tushar-xddd?label=FOLLOWERS&style=for-the-badge&color=B026FF&labelColor=090011" alt="Followers" />
+<img src="https://img.shields.io/github/followers/hridumoon?label=FOLLOWERS&style=for-the-badge&color=B026FF&labelColor=090011" alt="Followers" />
 <img src="https://img.shields.io/badge/Bogura-Bangladesh-C084FC?style=for-the-badge&labelColor=090011" alt="Location" />
 
 <br><br>
@@ -85,7 +85,7 @@ const developer = {
 <img src="https://img.shields.io/badge/OPEN%20WEBSITE-7F00FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=090011" alt="Open Website" />
 </a>
 <br>
-<sub>rynoxx.site</sub>
+<sub>HASAN HRIDOY</sub>
 </td>
 <td align="center" width="25%">
 <a href="mailto:sjaberhasan96@gmial.com">
@@ -182,17 +182,17 @@ Scripts and tools designed to reduce manual work and improve speed.
 
 ## GitHub Analytics
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=tushar-xddd&bg_color=090011&color=C084FC&line=7F00FF&point=F5D0FE&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Activity" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=hridumoon&bg_color=090011&color=C084FC&line=7F00FF&point=F5D0FE&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution Activity" />
 
 <br><br>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tushar-xddd&theme=radical" alt="Profile Stats" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hridumoon&theme=radical" alt="Profile Stats" />
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tushar-xddd&theme=radical" alt="Repos Per Language" />
 
 <br><br>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tushar-xddd&theme=radical" alt="Most Commit Language" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tushar-xddd&theme=radical&utcOffset=5.5" alt="Productive Time" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hridumoon&theme=radical" alt="Most Commit Language" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hridumoon&theme=radical&utcOffset=5.5" alt="Productive Time" />
 
 <br><br>
 
